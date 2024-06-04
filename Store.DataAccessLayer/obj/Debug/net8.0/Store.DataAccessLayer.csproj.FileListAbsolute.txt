@@ -1,0 +1,51 @@
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.deps.json
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.runtimeconfig.json
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CopyComplete
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\refint\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.genruntimeconfig.cache
+C:\Users\DAIC\Desktop\store\Store.DataAccessLayer\obj\Debug\net8.0\ref\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.deps.json
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.runtimeconfig.json
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CopyComplete
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\refint\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.genruntimeconfig.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\ref\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.deps.json
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.runtimeconfig.json
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.csproj.CopyComplete
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\refint\Store.DataAccessLayer.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.pdb
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\Store.DataAccessLayer.genruntimeconfig.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\Store.DataAccessLayer\obj\Debug\net8.0\ref\Store.DataAccessLayer.dll

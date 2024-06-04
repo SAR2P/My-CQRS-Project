@@ -1,0 +1,36 @@
+C:\Users\DAIC\Desktop\store\store.entities\bin\Debug\net8.0\Store.Entities.deps.json
+C:\Users\DAIC\Desktop\store\store.entities\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\store\store.entities\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\refint\Store.Entities.dll
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\store\store.entities\obj\Debug\net8.0\ref\Store.Entities.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.deps.json
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\refint\Store.Entities.dll
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\ref\Store.Entities.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.deps.json
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\bin\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.AssemblyReference.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfoInputs.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.AssemblyInfo.cs
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\refint\Store.Entities.dll
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\Store.Entities.pdb
+C:\Users\DAIC\Desktop\PROJs\Asp-React-Projects\saeed rajabi proj\store\store.entities\obj\Debug\net8.0\ref\Store.Entities.dll
